@@ -1,2 +1,3 @@
 # PythonWebCrawler
-Spider web Crawler the crawls links from a website
+Spider web Crawler that crawls links from a website
+
